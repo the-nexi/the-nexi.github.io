@@ -12,7 +12,7 @@ My passions lie in the realm of open-source software, UNIX-like systems, contain
 |             |  
 |-------------|-----
 | Telegram:        | [    @nexi5](https://t.me/nexi5)  
-| Matrix:       |  [@thefox:envs.net](https://matrix.to/#/#thefox:envs.net)  
+| Matrix:       |  [@thefox:envs.net](https://matrix.to/#/@thefox:envs.net)  
 
 # 💻⌨️
 I strive to optimize my workflow by predominantly utilizing keyboard shortcuts over the mouse, a method I find to be significantly more efficient.
