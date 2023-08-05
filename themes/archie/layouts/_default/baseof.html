@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		    <script src="{{ $.Site.BaseURL }}js/oneko.js"></script>
+	</head>
+    {{- partial "header.html" . -}}
+    <body>
+		<script src="./js/wc.js"></script>
+        <div class="content">
+        {{- partial "head.html" . -}}
+        {{- block "main" . }}{{- end }}
+        {{- partial "footer.html" . -}}
+        </div>
+    </body>
+</html>
