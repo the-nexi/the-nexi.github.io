@@ -33,5 +33,4 @@ I occasionally craft uncomplicated programs and scripts using Python 3, C++, and
 
 ## 💻⌨️
 On my main computer, [Neovim](https://neovim.io/), [Arch Linux](https://www.archlinux.org/) and [i3wm](https://i3wm.org/) (with [compfy](https://github.com/allusive-dev/compfy/) as a compositor) are used.
-![Behold my sophisticated desktop](/desktop.png)
-
+![Behold my sophisticated desktop](/desk.png)
