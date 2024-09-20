@@ -25,8 +25,8 @@ My tech-related passions lie in the realm of free software, UNIX-like systems, c
 As a proponent of positivism and rationalism, I firmly believe in the importance of relying on empirical evidence in order to form conclusions and make decisions. I also align closely with utilitarianism.
 
 ## Human communication protocols
- 🇷🇺: Native Speaker     
- 🇺🇸: Proficiency Level - C1
+ [RUS]: Native Speaker     
+ [ENG]: Proficiency Level - C1
 
 ## Machine communication protocols 
 I occasionally craft uncomplicated programs and scripts using Python 3, C++, and bash, primarily for personal utility and automated tasks.
