@@ -15,6 +15,7 @@ My tech-related passions lie in the realm of free software, UNIX-like systems, c
 |-------------|-----
 | Telegram:        | [    @nexi5](https://t.me/nexi5)  
 | Matrix:       |  [@thefox:envs.net](https://matrix.to/#/@thefox:envs.net)  
+| Mastodon:     | [@nexi@fosstodon.org](https://fosstodon.org/@nexi)
 
 
  
